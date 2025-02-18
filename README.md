@@ -2,7 +2,7 @@
 # 🌍 English to Arabic Machine Translator  
 Effortlessly translate English text into Arabic using state-of-the-art NLP models! Powered by [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) and built with [Streamlit](https://streamlit.io), this web app delivers fast and accurate translations in a user-friendly interface.  
 
-![English to Arabic Machine Translator](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/translator_screenshot.png)
+![English to Arabic Machine Translator](https://github.com/AmnaBarzan/English2Arabic_Machine-Translator/blob/main/translator_screenshot.png.)
 
 ---
 
